@@ -1,0 +1,26 @@
+name: Sync Files from Upstream
+
+on:
+  schedule:
+    - cron: '0 5 * * *'  # 每天午夜检查一次
+  workflow_dispatch:  # 允许手动触发工作流
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+
+      - name: Add upstream repository
+        run: |
+          git fetch origin
+      - name: Sync APTV.m3u to IPTV.m3u
+        run: |
+          sed '/group-title="国际"/{N;d;}' APTV.m3u > IPTV.m3u
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add IPTV.m3u
+          git commit -m 'Sync APTV.m3u to IPTV.m3u'
+          git push --force
