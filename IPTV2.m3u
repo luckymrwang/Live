@@ -1,0 +1,1085 @@
+#EXTM3U
+#EXTINF:-1,CCTV1 (delay=0.04s)
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1,CCTV2 (delay=0.48s)
+http://112.27.235.94:8000/hls/2/index.m3u8
+#EXTINF:-1,CCTV3 (delay=0.48s)
+http://112.27.235.94:8000/hls/3/index.m3u8
+#EXTINF:-1,CCTV4 (delay=0.58s)
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1,CCTV4K (delay=0.77s)
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1,CCTV4K真4K (delay=0.81s)
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+#EXTINF:-1,CCTV-4K 高清 (delay=0.79s)
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1784926800-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-d7dd000824a8941e38e71d58d609ea08&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1,CCTV5 (delay=0.49s)
+http://112.27.235.94:8000/hls/5/index.m3u8
+#EXTINF:-1,CCTV5+ (delay=0.49s)
+http://112.27.235.94:8000/hls/6/index.m3u8
+#EXTINF:-1,CCTV6 (delay=0.1s)
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1,CCTV7 (delay=0.49s)
+http://112.27.235.94:8000/hls/8/index.m3u8
+#EXTINF:-1,CCTV8 (delay=0.48s)
+http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1,CCTV9 (delay=0.07s)
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1,CCTV10 (delay=0.48s)
+http://112.27.235.94:8000/hls/11/index.m3u8
+#EXTINF:-1,CCTV11 (delay=0.5s)
+http://112.27.235.94:8000/hls/12/index.m3u8
+#EXTINF:-1,CCTV12 (delay=0.06s)
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1,CCTV13 (delay=0.49s)
+http://112.27.235.94:8000/hls/14/index.m3u8
+#EXTINF:-1,CCTV14 (delay=0.47s)
+http://112.27.235.94:8000/hls/15/index.m3u8
+#EXTINF:-1,CCTV15 (delay=0.48s)
+http://112.27.235.94:8000/hls/16/index.m3u8
+#EXTINF:-1,CHC家庭影院 (delay=0.5s)
+http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+#EXTINF:-1,熊猫直播 (delay=1.26s)
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1,三沙卫视 (delay=0.53s)
+http://221.226.51.220:50081/newlive/live/hls/38/live.m3u8
+#EXTINF:-1,上海卫视 (delay=0.5s)
+http://112.27.235.94:8000/hls/28/index.m3u8
+#EXTINF:-1,东南卫视 (delay=0.49s)
+http://112.27.235.94:8000/hls/38/index.m3u8
+#EXTINF:-1,东方卫视 (delay=0.83s)
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1,东方卫视4K (delay=0.86s)
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1,云南卫视 (delay=0.49s)
+http://112.27.235.94:8000/hls/40/index.m3u8
+#EXTINF:-1,人间卫视 (delay=0.36s)
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1,兵团卫视 (delay=1.5s)
+http://218.13.170.98:9901/tsfile/live/0115_1.m3u8
+#EXTINF:-1,内蒙古卫视 (delay=3.3s)
+http://222.134.245.16:9901/tsfile/live/0109_1.m3u8
+#EXTINF:-1,农林卫视 (delay=0.59s)
+http://120.76.248.139/live/bfgd/4200000122.m3u8
+#EXTINF:-1,北京卫视 (delay=0.49s)
+http://112.27.235.94:8000/hls/27/index.m3u8
+#EXTINF:-1,厦门卫视 (delay=0.48s)
+http://183.11.239.36:808/hls/17/index.m3u8
+#EXTINF:-1,吉林卫视 (delay=1.54s)
+http://61.136.172.236:9901/tsfile/live/0116_1.m3u8
+#EXTINF:-1,四川卫视 (delay=0.52s)
+http://112.27.235.94:8000/hls/35/index.m3u8
+#EXTINF:-1,大湾区卫视 (delay=0.49s)
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1,天津卫视 (delay=0.5s)
+http://112.27.235.94:8000/hls/42/index.m3u8
+#EXTINF:-1,宁夏卫视 (delay=0.59s)
+http://120.76.248.139/live/bfgd/4200000118.m3u8
+#EXTINF:-1,安多卫视 (delay=1.35s)
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1,安徽卫视 (delay=0.49s)
+http://112.27.235.94:8000/hls/26/index.m3u8
+#EXTINF:-1,山东卫视 (delay=0.49s)
+http://112.27.235.94:8000/hls/34/index.m3u8
+#EXTINF:-1,山东教育 (delay=1.41s)
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+#EXTINF:-1,山西卫视 (delay=0.47s)
+http://112.27.235.94:8000/hls/45/index.m3u8
+#EXTINF:-1,广东卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/30/index.m3u8
+#EXTINF:-1,广西卫视 (delay=0.85s)
+https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
+#EXTINF:-1,延边卫视 (delay=0.59s)
+http://120.76.248.139/live/bfgd/4200000117.m3u8
+#EXTINF:-1,新疆卫视 (delay=0.61s)
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+#EXTINF:-1,江苏卫视 (delay=0.55s)
+http://112.27.235.94:8000/hls/32/index.m3u8
+#EXTINF:-1,江苏卫视4K (delay=1.98s)
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:-1,江西卫视 (delay=0.54s)
+http://112.27.235.94:8000/hls/44/index.m3u8
+#EXTINF:-1,河北卫视 (delay=1.55s)
+http://112.27.235.94:8000/hls/39/index.m3u8
+#EXTINF:-1,河南卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/37/index.m3u8
+#EXTINF:-1,浙江卫视 (delay=0.47s)
+http://112.27.235.94:8000/hls/29/index.m3u8
+#EXTINF:-1,海南卫视 (delay=0.47s)
+http://120.76.248.139/live/bfgd/4200000473.m3u8
+#EXTINF:-1,海峡卫视 (delay=0.11s)
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+#EXTINF:-1,深圳卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/33/index.m3u8
+#EXTINF:-1,深圳卫视4K (delay=1.54s)
+http://nn.7x9d.cn/深圳最新.php?id=szws4k
+#EXTINF:-1,湖北卫视 (delay=0.47s)
+http://112.27.235.94:8000/hls/41/index.m3u8
+#EXTINF:-1,湖南卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/31/index.m3u8
+#EXTINF:-1,湖南卫视4K (delay=1.58s)
+http://8.138.7.223/tv/api.php?id=hnws4k
+#EXTINF:-1,甘肃卫视 (delay=1.02s)
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,西藏卫视 (delay=1.15s)
+http://cssbyd.imwork.net:8082/hls/46/index.m3u8
+#EXTINF:-1,贵州卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/46/index.m3u8
+#EXTINF:-1,辽宁卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/47/index.m3u8
+#EXTINF:-1,重庆卫视 (delay=0.54s)
+http://112.27.235.94:8000/hls/36/index.m3u8
+#EXTINF:-1,陕西卫视 (delay=0.48s)
+http://112.27.235.94:8000/hls/43/index.m3u8
+#EXTINF:-1,黑龙江卫视 (delay=0.53s)
+http://112.27.235.94:8000/hls/48/index.m3u8
+#EXTINF:-1,上海第一财经 (delay=2.56s)
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1,新纪实 (delay=0.54s)
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1,普陀山 (delay=1.79s)
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1,第一财经 (delay=2.38s)
+http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1,纪实人文 (delay=0.46s)
+http://8.138.7.223/tv/shtv.php?id=xjs
+#EXTINF:-1,纪实科教 (delay=0.51s)
+http://120.76.248.139/live/bfgd/4200000113.m3u8
+#EXTINF:-1,都市剧场 (delay=1.91s)
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+#EXTINF:-1,丽江古城万古楼遥望玉龙雪山 (delay=1.68s)
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1,丽江古城大水车 (delay=1.63s)
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1,丽江古城大研花巷观景 (delay=1.61s)
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1,云南丽江冰川 (delay=1.64s)
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1,云南丽江印象实景 (delay=1.59s)
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1,云南丽江玉龙雪山 (delay=1.53s)
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1,云南丽江玉龙雪山草甸 (delay=1.44s)
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1,云南丽江蓝月谷 (delay=1.52s)
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1,云南大理崇圣寺三塔中景 (delay=1.42s)
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1,云南大理崇圣寺三塔远景 (delay=1.44s)
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1,云南娱乐 (delay=2.71s)
+https://hwapi.yntv.net/62hdvf/q9vs1b.m3u8
+#EXTINF:-1,云南白沙远眺玉龙雪山 (delay=1.3s)
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1,云南都市 (delay=1.61s)
+https://hwapi.yntv.net/62hdvf/rjwt14.m3u8
+#EXTINF:-1,江苏徐州云龙湖风景区云龙山观景台西 (delay=1.16s)
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1,狮子山鸟瞰丽江古城 (delay=1.22s)
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1,东森财经新闻 (delay=0.08s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1,北京新闻 (delay=1.22s)
+https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1,卡酷少儿 (delay=2.98s)
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1,耀才财经 (delay=1.24s)
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1,金鹰卡通 (delay=0.48s)
+http://125.42.151.53:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,东丰 (delay=0.77s)
+http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
+#EXTINF:-1,东丰综合 (delay=1.11s)
+http://stream3.jlntv.cn:80/aac_dfgb/playlist.m3u8
+#EXTINF:-1,九台 (delay=1.19s)
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
+#EXTINF:-1,九台综合 (delay=1.03s)
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
+#EXTINF:-1,双辽 (delay=0.72s)
+http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
+#EXTINF:-1,双辽综合 (delay=0.8s)
+http://stream3.jlntv.cn:80/aac_slgb/playlist.m3u8
+#EXTINF:-1,延边2 (delay=1.72s)
+http://stream5.jlntv.cn/wq/playlist.m3u8
+#EXTINF:-1,德惠综合 (delay=1.59s)
+http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
+#EXTINF:-1,敦化一套 (delay=1.09s)
+http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
+#EXTINF:-1,柳河 (delay=0.65s)
+http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1,柳河综合 (delay=0.75s)
+http://stream3.jlntv.cn:80/aac_lhgb/sd/live.m3u8
+#EXTINF:-1,桦甸 (delay=0.64s)
+http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+#EXTINF:-1,桦甸综合 (delay=0.82s)
+http://stream9.jlntv.cn:80/aac_huadiangb/playlist.m3u8
+#EXTINF:-1,梅河口综合 (delay=0.65s)
+http://stream3.jlntv.cn:80/aac_mhkgb/playlist.m3u8
+#EXTINF:-1,汪清 (delay=0.57s)
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+#EXTINF:-1,汪清综合 (delay=0.68s)
+http://stream5.jlntv.cn/wq/sd/live.m3u8
+#EXTINF:-1,珲春新闻 (delay=1.01s)
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
+#EXTINF:-1,白山公共 (delay=0.96s)
+http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+#EXTINF:-1,磐石 (delay=0.54s)
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
+#EXTINF:-1,磐石综合 (delay=0.59s)
+http://stream3.jlntv.cn:80/aac_psgb/sd/live.m3u8
+#EXTINF:-1,舒兰新闻 (delay=0.98s)
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+#EXTINF:-1,舒兰新闻综合 (delay=2.89s)
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?_upt=332db6421699196585
+#EXTINF:-1,辉南新闻 (delay=0.66s)
+http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
+#EXTINF:-1,辉南新闻综合 (delay=0.72s)
+http://stream5.jlntv.cn/hn/sd/live.m3u8
+#EXTINF:-1,通化县 (delay=0.67s)
+http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
+#EXTINF:-1,通化县综合 (delay=0.79s)
+http://stream3.jlntv.cn:80/aac_thxgb/playlist.m3u8
+#EXTINF:-1,长白山电视台 (delay=0.66s)
+http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
+#EXTINF:-1,靖宇 (delay=1.47s)
+http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+#EXTINF:-1,靖宇综合 (delay=2.79s)
+http://stream9.jlntv.cn:80/aac_jygb/playlist.m3u8
+#EXTINF:-1,龙井 (delay=0.67s)
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
+#EXTINF:-1,龙井综合 (delay=0.72s)
+http://stream9.jlntv.cn:80/aac_longjinggb/playlist.m3u8
+#EXTINF:-1,乐山大佛全景 (delay=0.81s)
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1,乐至综合 (delay=0.51s)
+http://175.155.106.72:89/live1/live1.m3u8
+#EXTINF:-1,井研综合 (delay=2.23s)
+http://tvfile.jyrmt.cn/nmip-media/channellive/channel104452/playlist.m3u8
+#EXTINF:-1,仁寿综合 (delay=1.57s)
+https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
+#EXTINF:-1,剑阁综合 (delay=1.44s)
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
+#EXTINF:-1,叙州新闻综合 (delay=0.72s)
+http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
+#EXTINF:-1,吉林乡村 (delay=1.57s)
+https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+#EXTINF:-1,名山综合 (delay=1.6s)
+https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8
+#EXTINF:-1,四川四姑娘山隆珠措 (delay=1.03s)
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1,四川峨眉山云海日出 (delay=0.97s)
+https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+#EXTINF:-1,四川峨眉山普贤菩萨铜像 (delay=0.88s)
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1,四川峨眉山远眺万佛顶 (delay=0.88s)
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1,四川峨眉山远眺贡嘎雪山 (delay=0.78s)
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1,广元公共 (delay=1.1s)
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+#EXTINF:-1,广元综合 (delay=1.11s)
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+#EXTINF:-1,广安公共 (delay=0.92s)
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
+#EXTINF:-1,朝天综合 (delay=1.35s)
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+#EXTINF:-1,松潘新闻综合 (delay=0.76s)
+http://live.spccmc.com:90/live/spxwzh.m3u8
+#EXTINF:-1,汶川新闻综合 (delay=0.78s)
+http://live.iwcmt.cn:90/live/zhxw.m3u8
+#EXTINF:-1,河南乡村 (delay=2.23s)
+http://1.94.31.214/php/hntv.php?id=hnxc
+#EXTINF:-1,荥经综合 (delay=2.55s)
+https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+#EXTINF:-1,都江堰鱼嘴 (delay=1.02s)
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1,金川乡村 (delay=1.76s)
+http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+#EXTINF:-1,金川新闻综合 (delay=1.41s)
+http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1,雅安新闻综合 (delay=3.41s)
+https://play.yunxya.com/channellive/xinwen.m3u8
+#EXTINF:-1,青川综合 (delay=0.69s)
+http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
+#EXTINF:-1,青神综合 (delay=0.82s)
+http://lmt.scqstv.com:80/live1/live1.m3u8
+#EXTINF:-1,津南一套 (delay=4.24s)
+http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+#EXTINF:-1,大立电视台 (delay=0.56s)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,普陀电视台 (delay=4.23s)
+https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1,绍兴电视台公共 (delay=0.81s)
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1,亳州农村 (delay=1.89s)
+http://zbbf2.ahbztv.com/live/418.m3u8
+#EXTINF:-1,六安公共 (delay=1.59s)
+http://ls.qingting.fm/live/1794199.m3u8
+#EXTINF:-1,六安新闻综合 (delay=1.54s)
+http://ls.qingting.fm/live/267.m3u8
+#EXTINF:-1,合肥新闻 (delay=0.48s)
+http://112.27.235.94:8000/hls/18/index.m3u8
+#EXTINF:-1,安徽导视 (delay=0.56s)
+http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
+#EXTINF:-1,安徽池州九华山风景区九华山 (delay=1.01s)
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1,安徽综艺体育 (delay=0.49s)
+http://112.27.235.94:8000/hls/25/index.m3u8
+#EXTINF:-1,安徽黟县芦村远眺 (delay=0.94s)
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1,安徽黟县西递牌坊 (delay=0.92s)
+https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1,广德生活 (delay=1.62s)
+https://live.gdtv.ah.cn/live/newsTV.m3u8
+#EXTINF:-1,广西玉林大容山莲花山顶 (delay=0.86s)
+https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8
+#EXTINF:-1,泰山大观峰 (delay=0.85s)
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1,浙江经济生活 (delay=1.13s)
+http://ali-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,祁门综合 (delay=1.52s)
+http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+#EXTINF:-1,铜陵新闻综合 (delay=2.14s)
+https://ls.qingting.fm/live/21303/64k.m3u8
+#EXTINF:-1,黄山 (delay=0.84s)
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1,黄山公共生活 (delay=1.37s)
+http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd
+#EXTINF:-1,黄山始信新道 (delay=1.1s)
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1,黄山排云亭 (delay=1.02s)
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1,黄山新闻综合 (delay=1.22s)
+http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8
+#EXTINF:-1,黄山飞来石 (delay=0.89s)
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1,山东生活 (delay=0.56s)
+http://ls.qingting.fm/live/60260.m3u8
+#EXTINF:-1,泰山主峰 (delay=0.73s)
+https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
+#EXTINF:-1,泰山十八盘 (delay=1.05s)
+https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
+#EXTINF:-1,泰山望人松 (delay=1.0s)
+https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
+#EXTINF:-1,泰山玉皇顶 (delay=0.91s)
+https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8
+#EXTINF:-1,泰山碧霞祠 (delay=0.99s)
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1,浙江舟山东极岛 (delay=0.99s)
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1,青岛崂山八水河 (delay=0.99s)
+https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
+#EXTINF:-1,青岛崂山双福 (delay=1.0s)
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
+#EXTINF:-1,万荣综合 (delay=0.55s)
+http://60.222.246.220:19433/hls1.m3u8
+#EXTINF:-1,大宁综合 (delay=2.54s)
+http://live.daningtv.com/aac_dngb/playlist.m3u8
+#EXTINF:-1,太谷新闻综合 (delay=2.46s)
+https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
+#EXTINF:-1,定襄综合 (delay=2.17s)
+http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+#EXTINF:-1,怀仁综合 (delay=1.92s)
+https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
+#EXTINF:-1,长子综合 (delay=2.29s)
+https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
+#EXTINF:-1,东莞新闻综合 (delay=5.76s)
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
+#EXTINF:-1,东莞生活资讯 (delay=5.72s)
+https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
+#EXTINF:-1,南国都市 (delay=2.59s)
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+#EXTINF:-1,南国都市4K (delay=1.86s)
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+#EXTINF:-1,广东大湾区 (delay=0.49s)
+http://222.128.55.152:9080/live/dwq.m3u8
+#EXTINF:-1,广东民生 (delay=0.47s)
+http://183.11.239.36:808/hls/18/index.m3u8
+#EXTINF:-1,广州新闻 (delay=1.4s)
+http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+#EXTINF:-1,广州竞赛 (delay=0.48s)
+http://8.138.7.223/tv/gzjs.m3u8
+#EXTINF:-1,广州综合 (delay=1.68s)
+https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
+#EXTINF:-1,河源公共 (delay=0.94s)
+http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1,河源综合 (delay=0.94s)
+http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1,泰山白云亭悬崖 (delay=1.03s)
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1,龙门飞甲 (delay=7.04s)
+http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
+#EXTINF:-1,广西桂林漓江景区 (delay=0.75s)
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
+#EXTINF:-1,来宾综合 (delay=1.08s)
+http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
+#EXTINF:-1,灌阳新闻综合 (delay=0.69s)
+https://ls.qingting.fm/live/5043/64k.m3u8
+#EXTINF:-1,象山综合 (delay=0.53s)
+http://play-sh13.quklive.com/live/1702360350551252.m3u8?auth_key=2037107484-800189c57a5a44d3b823b60cf84f6756-0-a6f6828a62d5c167cff5e68735fa0d39
+#EXTINF:-1,伊犁哈萨克 (delay=0.59s)
+http://110.153.180.106:55555/out_3/index.m3u8
+#EXTINF:-1,伊犁经济法制 (delay=0.63s)
+http://110.153.180.106:55555/out_4/index.m3u8
+#EXTINF:-1,伊犁维吾尔 (delay=1.65s)
+http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
+#EXTINF:-1,兵团五师双河影 (delay=10.88s)
+https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
+#EXTINF:-1,兵团五师双河新闻综合 (delay=9.07s)
+http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+#EXTINF:-1,可克达拉综合 (delay=1.29s)
+http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
+#EXTINF:-1,奎屯哈萨克语 (delay=0.68s)
+http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1,奎屯汉语 (delay=1.72s)
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
+#EXTINF:-1,新疆天山 (delay=1.35s)
+http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+#EXTINF:-1,玛纳斯 (delay=0.61s)
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
+#EXTINF:-1,玛纳斯综合 (delay=0.62s)
+http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
+#EXTINF:-1,南京教科 (delay=0.97s)
+http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1,南京新闻综合 (delay=0.91s)
+http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
+#EXTINF:-1,南京玄武湖公园 (delay=0.7s)
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1,句容党建 (delay=1.77s)
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1,句容影院 (delay=1.87s)
+http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd
+#EXTINF:-1,句容生活 (delay=2.82s)
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1,新沂新闻 (delay=0.77s)
+http://live.xysrmt.cn/xwzh/sd/live.m3u8?zjiangsd"
+#EXTINF:-1,新沂生活 (delay=0.77s)
+http://live.xysrmt.cn/shpd/sd/live.m3u8?zjiangsd
+#EXTINF:-1,武进新闻 (delay=1.5s)
+https://live.wjyanghu.com/live/CH1.m3u8
+#EXTINF:-1,武进生活 (delay=2.24s)
+http://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1,江苏南京牛首山 (delay=0.73s)
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1,浙江钱江都市 (delay=0.89s)
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,苏州4K (delay=1.05s)
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1,苏州文化生活 (delay=0.94s)
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1,苏州新闻综合 (delay=1.0s)
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1,苏州生活资讯 (delay=0.93s)
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1,苏州社会经济 (delay=0.58s)
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1,镇江二套社会民生 (delay=1.08s)
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+#EXTINF:-1,镇江新闻综合 (delay=1.11s)
+http://cm-wshls.homecdn.com/live/2aa50.m3u8
+#EXTINF:-1,靖江新闻综合 (delay=0.53s)
+http://ls.qingting.fm/live/23797.m3u8
+#EXTINF:-1,辽宁都市 (delay=0.49s)
+http://120.76.248.139/live/bfgd/4200000610.m3u8
+#EXTINF:-1,任丘综合 (delay=1.68s)
+https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
+#EXTINF:-1,兴隆综合 (delay=1.69s)
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1,平泉综合 (delay=1.6s)
+https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
+#EXTINF:-1,昌黎综合 (delay=1.73s)
+https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+#EXTINF:-1,河北4K (delay=3.17s)
+https://event.pull.hebtv.com:443/live/live101.m3u8
+#EXTINF:-1,河北公共 (delay=2.92s)
+http://1.94.31.214/php/hebei.php?id=hbgg
+#EXTINF:-1,河北农民 (delay=0.64s)
+https://ls.qingting.fm/live/1650/64k.m3u8
+#EXTINF:-1,河北少儿 (delay=1.81s)
+http://1.94.31.214/php/hebei.php?id=sekj
+#EXTINF:-1,河北影视 (delay=1.67s)
+http://1.94.31.214/php/hebei.php?id=hbys
+#EXTINF:-1,河北经济 (delay=1.65s)
+http://1.94.31.214/php/hebei.php?id=jjsh
+#EXTINF:-1,河北都市 (delay=1.67s)
+http://1.94.31.214/php/hebei.php?id=hbds
+#EXTINF:-1,清河经济综艺 (delay=1.21s)
+https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
+#EXTINF:-1,滦平新闻 (delay=1.23s)
+http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+#EXTINF:-1,衡水公共 (delay=0.53s)
+http://ls.qingting.fm/live/2810.m3u8
+#EXTINF:-1,西安新闻 (delay=0.42s)
+http://112.46.105.20:8009/hls/28/index.m3u8
+#EXTINF:-1,邢台生活 (delay=0.98s)
+https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+#EXTINF:-1,邢台综合 (delay=1.19s)
+https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
+#EXTINF:-1,邯郸公共频道 (delay=0.86s)
+https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+#EXTINF:-1,邯郸新闻 (delay=0.84s)
+https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
+#EXTINF:-1,邯郸科技教育 (delay=0.82s)
+https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
+#EXTINF:-1,梨园 (delay=1.45s)
+https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
+#EXTINF:-1,河南公共 (delay=2.09s)
+http://1.94.31.214/php/hntv.php?id=hngg
+#EXTINF:-1,河南新闻 (delay=1.56s)
+http://1.94.31.214/php/hntv.php?id=hnxw
+#EXTINF:-1,河南梨园 (delay=1.62s)
+http://1.94.31.214/php/hntv.php?id=hnly
+#EXTINF:-1,河南法治 (delay=2.13s)
+http://1.94.31.214/php/hntv.php?id=hmfz
+#EXTINF:-1,睛彩中原 (delay=1.55s)
+http://1.94.31.214/php/hntv.php?id=jczy
+#EXTINF:-1,上虞文化影院 (delay=1.25s)
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+#EXTINF:-1,上虞新商都 (delay=1.15s)
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+#EXTINF:-1,上虞新闻综合 (delay=1.2s)
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+#EXTINF:-1,东阳影视生活 (delay=2.24s)
+http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8
+#EXTINF:-1,中国蓝新闻 (delay=0.71s)
+http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+#EXTINF:-1,之江纪录 (delay=0.79s)
+https://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1,云和新闻综合 (delay=0.98s)
+http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+#EXTINF:-1,余姚姚江文化 (delay=0.89s)
+http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+#EXTINF:-1,余姚新闻综合 (delay=0.73s)
+http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+#EXTINF:-1,余姚综合 (delay=1.01s)
+https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+#EXTINF:-1,余杭未来E (delay=0.78s)
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
+#EXTINF:-1,余杭未来E频道 (delay=0.8s)
+http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+#EXTINF:-1,余杭综合 (delay=0.56s)
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
+#EXTINF:-1,余杭综合频道 (delay=0.78s)
+http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+#EXTINF:-1,兰溪新闻综合 (delay=0.72s)
+http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+#EXTINF:-1,嘉兴新闻综合 (delay=0.54s)
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1,嵊州新闻综合 (delay=0.56s)
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1,嵊泗综合 (delay=5.52s)
+http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
+#EXTINF:-1,平湖新闻综合 (delay=6.23s)
+http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+#EXTINF:-1,平湖民生休闲 (delay=5.42s)
+http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
+#EXTINF:-1,庆元新闻综合 (delay=5.45s)
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
+#EXTINF:-1,庆元综合 (delay=6.19s)
+http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+#EXTINF:-1,开化国家公园 (delay=5.37s)
+http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+#EXTINF:-1,开化新闻综合 (delay=5.41s)
+http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+#EXTINF:-1,数码时代 (delay=0.43s)
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+#EXTINF:-1,文成新闻综合 (delay=5.37s)
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+#EXTINF:-1,文成综合 (delay=5.33s)
+http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+#EXTINF:-1,新昌新闻综合 (delay=6.56s)
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+#EXTINF:-1,新昌生活 (delay=5.19s)
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+#EXTINF:-1,普陀新闻综合 (delay=5.23s)
+http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+#EXTINF:-1,松阳综合 (delay=5.17s)
+http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+#EXTINF:-1,武义新闻综合 (delay=5.13s)
+http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+#EXTINF:-1,永嘉新闻综合 (delay=5.15s)
+http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8
+#EXTINF:-1,洞头综合 (delay=5.09s)
+http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+#EXTINF:-1,浙江休闲台 (delay=0.72s)
+http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+#EXTINF:-1,浙江少儿 (delay=0.63s)
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江教科 (delay=0.58s)
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江教科影视 (delay=0.73s)
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江教科影院 (delay=0.46s)
+http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江教育 (delay=0.53s)
+http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
+#EXTINF:-1,浙江数码时代 (delay=0.42s)
+http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+#EXTINF:-1,浙江新闻 (delay=0.73s)
+https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1,浙江民生 (delay=0.49s)
+http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
+#EXTINF:-1,浙江民生休闲 (delay=0.84s)
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1,浙江生活 (delay=0.34s)
+http://ls.qingting.fm/live/1099.m3u8
+#EXTINF:-1,浙江留学 (delay=0.76s)
+http://ali-vl.cztv.com/channels/lantian/channel009/360p.m3u8
+#EXTINF:-1,浙江经济 (delay=0.49s)
+http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,浙江遂昌 (delay=4.08s)
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+#EXTINF:-1,浙江钱江 (delay=4.02s)
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1,浙江钱江频道 (delay=0.48s)
+http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+#EXTINF:-1,海宁新闻综合 (delay=6.17s)
+https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
+#EXTINF:-1,绍兴公共 (delay=0.48s)
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1,缙云新闻综合 (delay=3.5s)
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+#EXTINF:-1,缙云综合 (delay=3.52s)
+http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+#EXTINF:-1,苍南新闻综合 (delay=3.72s)
+https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+#EXTINF:-1,萧山新闻综合 (delay=3.37s)
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1,萧山生活 (delay=1.06s)
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+#EXTINF:-1,萧山生活频道 (delay=1.31s)
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+#EXTINF:-1,萧山综合 (delay=1.25s)
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1,衢江新闻综合 (delay=1.35s)
+http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
+#EXTINF:-1,诸暨新闻综合 (delay=2.24s)
+https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+#EXTINF:-1,象山新闻综合 (delay=1.33s)
+http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+#EXTINF:-1,遂昌综合 (delay=2.07s)
+http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?zzhed
+#EXTINF:-1,青田电视台 (delay=1.88s)
+http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+#EXTINF:-1,龙泉新闻综合 (delay=1.29s)
+http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+#EXTINF:-1,龙游新闻综合 (delay=1.24s)
+http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
+#EXTINF:-1,龙游生活娱乐 (delay=1.54s)
+https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+#EXTINF:-1,天涯石 (delay=0.79s)
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1,海南新闻 (delay=0.59s)
+http://ls.qingting.fm/live/1861.m3u8
+#EXTINF:-1,朝阳新闻综合 (delay=0.47s)
+http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1,武汉一台新闻综合 (delay=0.6s)
+https://ls.qingting.fm/live/20198/64k.m3u8
+#EXTINF:-1,江夏新闻综合 (delay=0.48s)
+http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
+#EXTINF:-1,泰山南天门 (delay=0.73s)
+https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1,浙江公共新闻 (delay=0.84s)
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1,荆门新闻综合 (delay=0.81s)
+http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
+#EXTINF:-1,衡阳新闻综合 (delay=1.64s)
+https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
+#EXTINF:-1,CHC电影 (delay=0.54s)
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1,湖南张家界天门山西线玻璃栈道 (delay=0.73s)
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1,湖南张家界宝峰湖 (delay=1.05s)
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1,湖南张家界御笔峰 (delay=1.07s)
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1,湖南张家界水绕四门 (delay=1.05s)
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1,美亚电影 (delay=1.56s)
+http://zjrtv.vip/live/?tbs=mydy
+#EXTINF:-1,长沙新闻综合 (delay=0.93s)
+http://ls.qingting.fm/live/4877.m3u8
+#EXTINF:-1,韩国电影1 (delay=0.2s)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1,韩国电影2 (delay=0.18s)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1,张掖七彩丹霞 (delay=0.82s)
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1,甘肃经济 (delay=1.15s)
+https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
+#EXTINF:-1,甘肃都市 (delay=1.12s)
+https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+#EXTINF:-1,三明新闻综合 (delay=0.62s)
+https://ls.qingting.fm/live/5022100/64k.m3u8
+#EXTINF:-1,云霄综合 (delay=1.92s)
+https://live.zzyxxw.com:2443/live/xwzh.m3u8
+#EXTINF:-1,厦门鼓浪屿 (delay=0.75s)
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1,河南电视剧 (delay=1.67s)
+http://1.94.31.214/php/hntv.php?id=hndsj
+#EXTINF:-1,浙江经视 (delay=0.67s)
+http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
+#EXTINF:-1,福州少儿 (delay=0.6s)
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1,福州生活 (delay=1.72s)
+http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,福建新闻 (delay=1.55s)
+http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+#EXTINF:-1,福建武夷山玉女峰 (delay=0.75s)
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1,福建经济 (delay=1.09s)
+http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+#EXTINF:-1,安顺新闻 (delay=1.25s)
+https://ls.qingting.fm/live/5022203/64k.m3u8
+#EXTINF:-1,贵州省兴义市万峰林 (delay=0.81s)
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1,乌镇西市河 (delay=0.81s)
+https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
+#EXTINF:-1,六盘山红军长征景区 (delay=0.74s)
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1,泰山太平岭 (delay=0.7s)
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1,辽宁体育 (delay=0.59s)
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
+#EXTINF:-1,辽宁公共 (delay=0.46s)
+http://120.76.248.139/live/bfgd/4200000481.m3u8
+#EXTINF:-1,辽宁北方 (delay=0.6s)
+http://120.76.248.139/live/bfgd/4200000071.m3u8
+#EXTINF:-1,辽宁影视 (delay=0.66s)
+http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
+#EXTINF:-1,辽宁影视剧 (delay=0.48s)
+http://120.76.248.139/live/bfgd/4200000070.m3u8
+#EXTINF:-1,辽宁教育青少 (delay=0.48s)
+http://120.76.248.139/live/bfgd/4200000075.m3u8
+#EXTINF:-1,辽宁生活 (delay=0.46s)
+http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1,辽宁经济 (delay=0.59s)
+http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1,辽宁青少 (delay=0.53s)
+http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
+#EXTINF:-1,江津新闻 (delay=0.54s)
+http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+#EXTINF:-1,铜梁综合 (delay=0.57s)
+http://183.64.174.171:40123/ch1.m3u8?zzhongqd
+#EXTINF:-1,都市青春 (delay=0.93s)
+http://112.46.105.20:8009/hls/19/index.m3u8
+#EXTINF:-1,陕西公共 (delay=0.54s)
+http://ls.qingting.fm/live/1222.m3u8
+#EXTINF:-1,陕西新闻咨询 (delay=0.43s)
+http://112.46.105.20:8009/hls/18/index.m3u8
+#EXTINF:-1,陕西洋县国宝朱鹮02 (delay=0.74s)
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1,陕西秦腔 (delay=0.41s)
+http://112.46.105.20:8009/hls/22/index.m3u8
+#EXTINF:-1,陕西都市青春 (delay=0.43s)
+http://112.46.105.20:8009/hls/19/index.m3u8
+#EXTINF:-1,陕西银龄 (delay=0.43s)
+http://112.46.105.20:8009/hls/20/index.m3u8
+#EXTINF:-1,黄龙 (delay=0.73s)
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1,西宁新闻综合 (delay=1.09s)
+https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
+#EXTINF:-1,七台河新闻综合 (delay=1.77s)
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+#EXTINF:-1,七台河民生社教 (delay=1.73s)
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+#EXTINF:-1,哈尔滨娱乐 (delay=0.71s)
+http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+#EXTINF:-1,哈尔滨影视 (delay=0.68s)
+http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
+#EXTINF:-1,哈尔滨新闻综合 (delay=0.64s)
+http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
+#EXTINF:-1,哈尔滨生活 (delay=0.77s)
+http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
+#EXTINF:-1,哈尔滨资讯 (delay=0.73s)
+http://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1,哈尔滨都市咨询 (delay=0.71s)
+http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
+#EXTINF:-1,恒山悬空寺全景 (delay=0.75s)
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1,西安都市 (delay=0.43s)
+http://112.46.105.20:8009/hls/29/index.m3u8
+#EXTINF:-1,黑龙江少儿 (delay=1.7s)
+https://ls.qingting.fm/live/4972/64k.m3u8
+#EXTINF:-1,黑龙江新闻 (delay=1.66s)
+https://ls.qingting.fm/live/4974/64k.m3u8
+#EXTINF:-1,三立戏剧 (delay=0.37s)
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1,八大戏剧台 (delay=0.36s)
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1,华视HD (delay=0.07s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1,台视新闻 (delay=0.11s)
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1,寰宇新闻台 (delay=0.13s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1,民视新闻HD (delay=0.09s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1,纬来精采 (delay=0.37s)
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1,乌镇全景 (delay=0.77s)
+https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1,乌镇蓝印花布 (delay=0.97s)
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1,乌镇龙形田 (delay=0.95s)
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1,五彩池 (delay=0.88s)
+https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
+#EXTINF:-1,八里沟风景区天界山玻璃栈道 (delay=0.99s)
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1,八里沟风景区桃花湾瀑布 (delay=0.95s)
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1,鸣沙山 (delay=0.94s)
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1,中视新闻 (delay=0.07s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1,新闻咨询 (delay=0.42s)
+http://112.46.105.20:8009/hls/18/index.m3u8
+#EXTINF:-1,新闻综合 (delay=7.68s)
+https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+#EXTINF:-1,五星体育 (delay=1.01s)
+http://8.138.7.223/tv/shtv.php?id=wxty
+#EXTINF:-1,精品体育 (delay=0.33s)
+https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+#EXTINF:-1,纬来体育 (delay=0.3s)
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
+#EXTINF:-1,韩国EBS少儿 (delay=1.66s)
+http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1,中国村庄 (delay=1.13s)
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
+#EXTINF:-1,人与自然 (delay=1.2s)
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+#EXTINF:-1,地理中国 (delay=1.03s)
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+#EXTINF:-1,自然传奇 (delay=1.11s)
+http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+#EXTINF:-1,航拍中国第二季 (delay=0.95s)
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+#EXTINF:-1,飞碟之谜01 (delay=0.85s)
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
+#EXTINF:-1,飞碟之谜02 (delay=1.62s)
+https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
+#EXTINF:-1,音乐欣赏 (delay=0.37s)
+http://61.221.215.25:8800/hls/49/index.m3u8
+#EXTINF:-1,音乐现场 (delay=0.59s)
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1,1987年春晚 (delay=0.64s)
+https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+#EXTINF:-1,1988年春晚 (delay=0.62s)
+https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+#EXTINF:-1,1989年春晚 (delay=0.61s)
+https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
+#EXTINF:-1,1993年春晚 (delay=0.72s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1,1994年春晚 (delay=0.55s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1,1995年春晚 (delay=0.71s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1,1996年春晚 (delay=0.63s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1,2000年春晚 (delay=0.58s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1,2001年春晚 (delay=0.53s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1,2002年春晚 (delay=0.6s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1,2003年春晚 (delay=0.51s)
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1,2004年春晚 (delay=0.4s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1,2005年春晚 (delay=0.47s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1,2006年春晚 (delay=0.44s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1,2007年春晚 (delay=0.29s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1,2009年春晚 (delay=0.24s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1,2010年春晚 (delay=0.26s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1,2013年春晚 (delay=0.29s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1,2014年春晚 (delay=0.22s)
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1,2018年春晚 (delay=0.29s)
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1,2019年春晚 (delay=0.28s)
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1,2024年春晚 (delay=1.61s)
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1,Arirang (delay=1.1s)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,Beautiful Life TV (delay=1.03s)
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1,Bloomberg Asia (delay=0.32s)
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1,CNA (delay=0.41s)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,CTi News (delay=0.23s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1,Dali TV (delay=1.02s)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1,DW (delay=0.33s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1,ET Mall 60 (delay=0.32s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1,Genius Go Go Go (delay=0.32s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1,Global News (delay=0.18s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1,Good (delay=0.94s)
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1,Good 2 (delay=1.01s)
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1,JP1 (delay=0.33s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1,KPop (delay=0.19s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1,Momo 1 (delay=0.19s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1,Momo 2 (delay=0.21s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1,Newsmax (delay=0.61s)
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,NU (delay=0.23s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1,NU2 (delay=0.24s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1,Pet Club TV (delay=0.89s)
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+#EXTINF:-1,Supreme Master TV (delay=0.31s)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1,Taiwan Plus TV (delay=0.21s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1,WionNews (delay=0.85s)
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1,中华特产 (delay=0.61s)
+http://120.76.248.139/live/bfgd/4200000158.m3u8
+#EXTINF:-1,中央电视塔东 (delay=0.75s)
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1,中央电视塔南 (delay=0.86s)
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1,乐游频道 (delay=0.47s)
+http://8.138.7.223/tv/shtv.php?id=ly
+#EXTINF:-1,优优宝贝 (delay=0.6s)
+http://120.76.248.139/live/bfgd/4200000153.m3u8
+#EXTINF:-1,信大 (delay=0.14s)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1,倩女幽魂人间道 (delay=0.51s)
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1,倩女幽魂妖魔道 (delay=1.52s)
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1,倩女幽魂道道道 (delay=0.52s)
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1,四海钓鱼 (delay=0.59s)
+http://120.76.248.139/live/bfgd/4200000229.m3u8
+#EXTINF:-1,文物宝库 (delay=1.39s)
+http://1.94.31.214/php/hntv.php?id=wwbk
+#EXTINF:-1,新视觉HD (delay=0.59s)
+http://120.76.248.139/live/bfgd/4200000249.m3u8
+#EXTINF:-1,春晚1983 (delay=0.19s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
+#EXTINF:-1,春晚1984 (delay=0.18s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+#EXTINF:-1,春晚1985 (delay=0.14s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+#EXTINF:-1,春晚1986 (delay=0.17s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
+#EXTINF:-1,春晚1987 (delay=0.18s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
+#EXTINF:-1,春晚1988 (delay=0.13s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
+#EXTINF:-1,春晚1989 (delay=0.14s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+#EXTINF:-1,春晚1991 (delay=0.14s)
+https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
+#EXTINF:-1,春晚1993 (delay=0.11s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
+#EXTINF:-1,春晚1994 (delay=0.19s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
+#EXTINF:-1,春晚1995 (delay=0.19s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
+#EXTINF:-1,春晚1996 (delay=0.14s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
+#EXTINF:-1,春晚1999 (delay=0.3s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
+#EXTINF:-1,春晚2000 (delay=0.32s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
+#EXTINF:-1,春晚2001 (delay=0.23s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
+#EXTINF:-1,春晚2002 (delay=0.29s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
+#EXTINF:-1,春晚2003 (delay=0.27s)
+https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
+#EXTINF:-1,春晚2004 (delay=0.18s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
+#EXTINF:-1,春晚2005 (delay=0.25s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
+#EXTINF:-1,春晚2006 (delay=0.2s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
+#EXTINF:-1,春晚2007 (delay=0.25s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
+#EXTINF:-1,春晚2008 (delay=0.24s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
+#EXTINF:-1,春晚2009 (delay=0.24s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
+#EXTINF:-1,春晚2010 (delay=0.25s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
+#EXTINF:-1,春晚2011 (delay=0.2s)
+https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
+#EXTINF:-1,春晚2013 (delay=0.24s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
+#EXTINF:-1,春晚2014 (delay=0.22s)
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
+#EXTINF:-1,春晚2015 (delay=0.28s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
+#EXTINF:-1,春晚2017 (delay=0.2s)
+https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
+#EXTINF:-1,春晚2018 (delay=0.21s)
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1,春晚2019 (delay=0.25s)
+https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
+#EXTINF:-1,春晚2020 (delay=0.26s)
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+#EXTINF:-1,春晚2021 (delay=0.25s)
+https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+#EXTINF:-1,春晚2022 (delay=0.25s)
+https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+#EXTINF:-1,春晚2024 (delay=1.06s)
+https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1,春晚2025 (delay=0.24s)
+https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
+#EXTINF:-1,月牙泉 (delay=0.79s)
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1,望乡台 (delay=0.8s)
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1,武术世界 (delay=1.5s)
+http://1.94.31.214/php/hntv.php?id=wspd
+#EXTINF:-1,环球旅游 (delay=0.58s)
+http://120.76.248.139/live/bfgd/4200000147.m3u8
+#EXTINF:-1,生态环境 (delay=0.6s)
+http://120.76.248.139/live/bfgd/4200000149.m3u8
+#EXTINF:-1,直播中国 (delay=0.83s)
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,美亚C+ (delay=0.44s)
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1,象视界 (delay=1.57s)
+http://1.94.31.214/php/hntv.php?id=xsj
+#EXTINF:-1,车迷频道 (delay=0.6s)
+http://120.76.248.139/live/bfgd/4200000146.m3u8
+#EXTINF:-1,重温经典 (delay=0.48s)
+http://112.27.235.94:8000/hls/50/index.m3u8
+#EXTINF:-1,长影频道 (delay=5.63s)
+http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
+#EXTINF:-1,雪乡大石碑 (delay=0.8s)
+https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
+#EXTINF:-1,雪乡梦幻家园 (delay=0.74s)
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1,黄果树六角亭瀑布 (delay=0.75s)
+https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1,黄花城水长城01 (delay=0.74s)
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1,黄花城水长城02 (delay=0.63s)
+http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1,黄花城水长城03 (delay=0.73s)
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
